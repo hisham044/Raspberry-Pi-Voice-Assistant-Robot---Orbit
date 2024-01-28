@@ -1,0 +1,943 @@
+{
+    "staus": "200",
+    "data": [
+      {
+        "id": 28,
+        "name": "SWARF TEST",
+        "category": "subjunior",
+        "stage": 1,
+        "isGroup": 0,
+        "limitCount": 1,
+        "status": "announced",
+        "count": 4,
+        "first": [
+          {
+            "id": 1516,
+            "program": 28,
+            "student": "2022JM092",
+            "campus": "JM004",
+            "code": "B",
+            "mark": 95,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "ahmed Wasil rasheed",
+            "campusName": "Darul Hidaya Collage Engappuzha ",
+            "points": 11,
+            "grade": "A+"
+          }
+        ],
+        "second": [
+          {
+            "id": 1346,
+            "program": 28,
+            "student": "2022JM234",
+            "campus": "JM008",
+            "code": "A",
+            "mark": 90,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Bishr Abbas",
+            "campusName": "Baithul Izza Narikkuni",
+            "points": 9,
+            "grade": "A+"
+          }
+        ],
+        "third": [
+          {
+            "id": 3479,
+            "program": 28,
+            "student": "2022JM268",
+            "campus": "JM018",
+            "code": "C",
+            "mark": 85,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Ajmal ashraf",
+            "campusName": "Tharbiyath Kodiyathur",
+            "points": 6,
+            "grade": "A"
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "name": "MASTER PLAN",
+        "category": "senior",
+        "stage": 0,
+        "isGroup": 1,
+        "limitCount": 3,
+        "status": "announced",
+        "count": 0,
+        "first": [
+          {
+            "id": 3242,
+            "program": 43,
+            "student": "\t2017JM025&2017JM078&2017JM001",
+            "campus": "JM001A",
+            "code": "A",
+            "mark": 91,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "TWAHIR SIDDIQ & Party",
+            "campusName": "MARKAZ GARDEN PG-2",
+            "points": 22,
+            "grade": "A+"
+          }
+        ],
+        "second": [
+          {
+            "id": 3210,
+            "program": 43,
+            "student": "2018JM106&2018JM004&2018JM047",
+            "campus": "JM001B",
+            "code": "C",
+            "mark": 81,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Uvais Abdussalam & Party",
+            "campusName": "MARKAZ GARDEN PG-1",
+            "points": 17,
+            "grade": "A"
+          }
+        ],
+        "third": [
+          {
+            "id": 813,
+            "program": 43,
+            "student": "2018JM064&2018JM051&2018JM103",
+            "campus": "JM007",
+            "code": "B",
+            "mark": 71,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "UNAIS ABOOBACKAR & Party",
+            "campusName": "Sayyid Madani College Ullal",
+            "points": 12,
+            "grade": "B"
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "name": "BLURB WRITING ENGLISH",
+        "category": "senior",
+        "stage": 0,
+        "isGroup": 0,
+        "limitCount": 3,
+        "status": "announced",
+        "count": 5,
+        "first": [
+          {
+            "id": 3030,
+            "program": 51,
+            "student": "2018JM005",
+            "campus": "JM001B",
+            "code": "B",
+            "mark": 77,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Ameen Ashraf",
+            "campusName": "MARKAZ GARDEN PG-1",
+            "points": 8,
+            "grade": "B"
+          }
+        ],
+        "second": [
+          {
+            "id": 3031,
+            "program": 51,
+            "student": "2018JM132",
+            "campus": "JM001B",
+            "code": "A",
+            "mark": 70,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Umair Abdul Latheef",
+            "campusName": "MARKAZ GARDEN PG-1",
+            "points": 6,
+            "grade": "B"
+          }
+        ],
+        "third": [
+          {
+            "id": 2856,
+            "program": 51,
+            "student": "\t2017JM025",
+            "campus": "JM001A",
+            "code": "G",
+            "mark": 60,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "TWAHIR SIDDIQ",
+            "campusName": "MARKAZ GARDEN PG-2",
+            "points": 4,
+            "grade": "B"
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "name": "MAPPILAPPATTU",
+        "category": "senior",
+        "stage": 1,
+        "isGroup": 0,
+        "limitCount": 3,
+        "status": "announced",
+        "count": 2,
+        "first": [
+          {
+            "id": 2911,
+            "program": 55,
+            "student": "2017JM022",
+            "campus": "JM001A",
+            "code": "F",
+            "mark": 88,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "SINAN ABDUL MAJEED ",
+            "campusName": "MARKAZ GARDEN PG-2",
+            "points": 10,
+            "grade": "A"
+          }
+        ],
+        "second": [
+          {
+            "id": 3051,
+            "program": 55,
+            "student": "2018JM015",
+            "campus": "JM001B",
+            "code": "B",
+            "mark": 86,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Naeem Ashraf",
+            "campusName": "MARKAZ GARDEN PG-1",
+            "points": 8,
+            "grade": "A"
+          }
+        ],
+        "third": [
+          {
+            "id": 296,
+            "program": 55,
+            "student": "2018JM095",
+            "campus": "JM007",
+            "code": "H",
+            "mark": 84,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "ASAD ABOOBACKAR ",
+            "campusName": "Sayyid Madani College Ullal",
+            "points": 6,
+            "grade": "A"
+          }
+        ],
+        "grades": [
+          {
+            "id": 294,
+            "program": 55,
+            "student": "2018JM025",
+            "campus": "JM007",
+            "code": "G",
+            "mark": 74,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "UMARUL FAROOQ HASSAINAR",
+            "campusName": "Sayyid Madani College Ullal",
+            "points": 3,
+            "grade": "B"
+          },
+          {
+            "id": 2909,
+            "program": 55,
+            "student": "2017JM033",
+            "campus": "JM001A",
+            "code": "A",
+            "mark": 65,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "JASEEM HARIS",
+            "campusName": "MARKAZ GARDEN PG-2",
+            "points": 3,
+            "grade": "B"
+          }
+        ]
+      },
+      {
+        "id": 83,
+        "name": "STORY WRITING MALAYALAM",
+        "category": "senior",
+        "stage": 0,
+        "isGroup": 0,
+        "limitCount": 3,
+        "status": "announced",
+        "count": 1,
+        "first": [
+          {
+            "id": 3013,
+            "program": 83,
+            "student": "2018JM014",
+            "campus": "JM001B",
+            "code": "F",
+            "mark": 69,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "MIQDAD ABDUL SALAM",
+            "campusName": "MARKAZ GARDEN PG-1",
+            "points": 8,
+            "grade": "B"
+          }
+        ],
+        "second": [
+          {
+            "id": 2957,
+            "program": 83,
+            "student": "2017JM123",
+            "campus": "JM001A",
+            "code": "G",
+            "mark": 67,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "SHAHEER SAIDALAVI",
+            "campusName": "MARKAZ GARDEN PG-2",
+            "points": 6,
+            "grade": "B"
+          }
+        ],
+        "third": [
+          {
+            "id": 3015,
+            "program": 83,
+            "student": "2018JM106",
+            "campus": "JM001B",
+            "code": "C",
+            "mark": 57,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Uvais Abdussalam",
+            "campusName": "MARKAZ GARDEN PG-1",
+            "points": 2,
+            "grade": "C"
+          }
+        ],
+        "grades": [
+          {
+            "id": 2959,
+            "program": 83,
+            "student": "2015JM083",
+            "campus": "JM001A",
+            "code": "B",
+            "mark": 48,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "RAEES ABDUL MAJEED",
+            "campusName": "MARKAZ GARDEN PG-2",
+            "points": 1,
+            "grade": "C"
+          },
+          {
+            "id": 2958,
+            "program": 83,
+            "student": "2017JM090",
+            "campus": "JM001A",
+            "code": "E",
+            "mark": 46,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "SAFWAN SHUHAIB ",
+            "campusName": "MARKAZ GARDEN PG-2",
+            "points": 1,
+            "grade": "C"
+          },
+          {
+            "id": 289,
+            "program": 83,
+            "student": "2018JM065",
+            "campus": "JM007",
+            "code": "A",
+            "mark": 45,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "SHUAIB SHAMSUDEEN",
+            "campusName": "Sayyid Madani College Ullal",
+            "points": 1,
+            "grade": "C"
+          },
+          {
+            "id": 290,
+            "program": 83,
+            "student": "2018JM087",
+            "campus": "JM007",
+            "code": "I",
+            "mark": 43,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "MOHAMMED JASEER HUSSAIN",
+            "campusName": "Sayyid Madani College Ullal",
+            "points": 1,
+            "grade": "C"
+          }
+        ]
+      },
+      {
+        "id": 96,
+        "name": "PUBLIC TALK",
+        "category": "subjunior",
+        "stage": 1,
+        "isGroup": 0,
+        "limitCount": 1,
+        "status": "announced",
+        "count": 6,
+        "first": [
+          {
+            "id": 1305,
+            "program": 96,
+            "student": "2022JM020",
+            "campus": "JM002",
+            "code": "K",
+            "mark": 90,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Muhammed Hussain Abdul Kabeer",
+            "campusName": "Imam Rabbani Collage Kanthapuram",
+            "points": 11,
+            "grade": "A+"
+          }
+        ],
+        "second": [
+          {
+            "id": 1576,
+            "program": 96,
+            "student": "2022JM089",
+            "campus": "JM004",
+            "code": "L",
+            "mark": 85,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Abdul basith HANEEFA",
+            "campusName": "Darul Hidaya Collage Engappuzha ",
+            "points": 8,
+            "grade": "A"
+          },
+          {
+            "id": 650,
+            "program": 96,
+            "student": "2022JM150",
+            "campus": "JM012",
+            "code": "D",
+            "mark": 85,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "SAYED NAZEEH THAHA",
+            "campusName": "Jamalullaily Campus Chelari",
+            "points": 8,
+            "grade": "A"
+          }
+        ],
+        "third": [
+          {
+            "id": 3574,
+            "program": 96,
+            "student": "2022INF030",
+            "campus": "JMI001",
+            "code": "N",
+            "mark": 80,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "SHAMMAS JALALUDDEEN",
+            "campusName": "Erthunnabavi Campuses",
+            "points": 6,
+            "grade": "A"
+          }
+        ],
+        "grades": [
+          {
+            "id": 907,
+            "program": 96,
+            "student": "2022JM083",
+            "campus": "JM009",
+            "code": "B",
+            "mark": 72,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Thameem muhammed ",
+            "campusName": "Dalaelul Khairath Kakkidippuram",
+            "points": 3,
+            "grade": "B"
+          },
+          {
+            "id": 3553,
+            "program": 96,
+            "student": "2022JM126",
+            "campus": "JM011",
+            "code": "J",
+            "mark": 72,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "NIYAS VEERANKUTTY",
+            "campusName": "Markasunnajath Ekarool",
+            "points": 3,
+            "grade": "B"
+          },
+          {
+            "id": 2178,
+            "program": 96,
+            "student": "2022JM041",
+            "campus": "JM003",
+            "code": "C",
+            "mark": 71,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Mansoor muhammed",
+            "campusName": "Imam Shafi Collage Busthanabad",
+            "points": 3,
+            "grade": "B"
+          },
+          {
+            "id": 1456,
+            "program": 96,
+            "student": "2022JM206",
+            "campus": "JM006",
+            "code": "F",
+            "mark": 71,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Safwan swalih ",
+            "campusName": "ISRA Vatanappally",
+            "points": 3,
+            "grade": "B"
+          },
+          {
+            "id": 2686,
+            "program": 96,
+            "student": "2022JM225",
+            "campus": "JM008",
+            "code": "E",
+            "mark": 70,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Swadiq Abdullah",
+            "campusName": "Baithul Izza Narikkuni",
+            "points": 3,
+            "grade": "B"
+          },
+          {
+            "id": 712,
+            "program": 96,
+            "student": "2022JM213",
+            "campus": "JM013",
+            "code": "G",
+            "mark": 70,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Muhammed thameem Ansari Thagarulla khan",
+            "campusName": "Darul Hikam Campus Panavally",
+            "points": 3,
+            "grade": "B"
+          },
+          {
+            "id": 2786,
+            "program": 96,
+            "student": "2022JM189",
+            "campus": "JM020",
+            "code": "I",
+            "mark": 70,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Nishal Nasar ",
+            "campusName": "Al Irshad Academy Thechiyad",
+            "points": 3,
+            "grade": "B"
+          },
+          {
+            "id": 1906,
+            "program": 96,
+            "student": "2022JM061",
+            "campus": "JM010",
+            "code": "H",
+            "mark": 69,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Muhammed al ameen Mujeeb rahman",
+            "campusName": "Markaz Al Bilal Pattambi",
+            "points": 3,
+            "grade": "B"
+          }
+        ]
+      },
+      {
+        "id": 143,
+        "name": "SWARF TEST",
+        "category": "premier",
+        "stage": 1,
+        "isGroup": 0,
+        "limitCount": 1,
+        "status": "announced",
+        "count": 0,
+        "first": [
+          {
+            "id": 1970,
+            "program": 143,
+            "student": "2023JMF253",
+            "campus": "JM008",
+            "code": "K",
+            "mark": 90,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Abdu Rasheed Raziq",
+            "campusName": "Baithul Izza Narikkuni",
+            "points": 11,
+            "grade": "A+"
+          }
+        ],
+        "second": [
+          {
+            "id": 1011,
+            "program": 143,
+            "student": "2023JMF004",
+            "campus": "JM012",
+            "code": "F",
+            "mark": 80,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "SAFWAN LIYAQATH ALI",
+            "campusName": "Jamalullaily Campus Chelari",
+            "points": 8,
+            "grade": "A"
+          }
+        ],
+        "third": [
+          {
+            "id": 1031,
+            "program": 143,
+            "student": "2023JMF30",
+            "campus": "JM009",
+            "code": "L",
+            "mark": 70,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Shahul Hameed Shaukat Ali",
+            "campusName": "Dalaelul Khairath Kakkidippuram",
+            "points": 4,
+            "grade": "B"
+          }
+        ]
+      },
+      {
+        "id": 146,
+        "name": "HIFZUL MUTHOON",
+        "category": "premier",
+        "stage": 0,
+        "isGroup": 0,
+        "limitCount": 2,
+        "status": "announced",
+        "count": 3,
+        "first": [
+          {
+            "id": 2102,
+            "program": 146,
+            "student": "2023JMF139",
+            "campus": "JM003",
+            "code": "E",
+            "mark": 90,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Sayyid Muhsin Yoosaf",
+            "campusName": "Imam Shafi Collage Busthanabad",
+            "points": 11,
+            "grade": "A+"
+          }
+        ],
+        "second": [
+          {
+            "id": 3364,
+            "program": 146,
+            "student": "2023JMF096",
+            "campus": "JM011",
+            "code": "G",
+            "mark": 85,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Mushthaque basheer",
+            "campusName": "Markasunnajath Ekarool",
+            "points": 8,
+            "grade": "A"
+          },
+          {
+            "id": 2101,
+            "program": 146,
+            "student": "2023JMF137",
+            "campus": "JM003",
+            "code": "F",
+            "mark": 85,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Anshid Sinan Ayyoob",
+            "campusName": "Imam Shafi Collage Busthanabad",
+            "points": 8,
+            "grade": "A"
+          }
+        ],
+        "third": [
+          {
+            "id": 1475,
+            "program": 146,
+            "student": "2023JMF081",
+            "campus": "JM004",
+            "code": "B",
+            "mark": 75,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Hadi hasan",
+            "campusName": "Darul Hidaya Collage Engappuzha ",
+            "points": 4,
+            "grade": "B"
+          }
+        ]
+      },
+      {
+        "id": 179,
+        "name": "ESSAY MALAYALAM",
+        "category": "premier",
+        "stage": 0,
+        "isGroup": 0,
+        "limitCount": 2,
+        "status": "announced",
+        "count": 0,
+        "first": [
+          {
+            "id": 2079,
+            "program": 179,
+            "student": "2023jmf213",
+            "campus": "JM014",
+            "code": "M",
+            "mark": 69,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Muhammed Abdul vahid",
+            "campusName": "Markaz Al Munavara Manappally",
+            "points": 8,
+            "grade": "B"
+          }
+        ],
+        "second": [
+          {
+            "id": 2106,
+            "program": 179,
+            "student": "2023JMF135",
+            "campus": "JM003",
+            "code": "G",
+            "mark": 67,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Sayyid Bishr Ahmed ",
+            "campusName": "Imam Shafi Collage Busthanabad",
+            "points": 6,
+            "grade": "B"
+          }
+        ],
+        "third": [
+          {
+            "id": 1047,
+            "program": 179,
+            "student": "2023JMF26",
+            "campus": "JM009",
+            "code": "B",
+            "mark": 65,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Yaseen Faisal",
+            "campusName": "Dalaelul Khairath Kakkidippuram",
+            "points": 4,
+            "grade": "B"
+          }
+        ],
+        "grades": [
+          {
+            "id": 1481,
+            "program": 179,
+            "student": "2023JMF067",
+            "campus": "JM004",
+            "code": "S",
+            "mark": 57,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Idrees suliman ",
+            "campusName": "Darul Hidaya Collage Engappuzha ",
+            "points": 1,
+            "grade": "C"
+          },
+          {
+            "id": 1482,
+            "program": 179,
+            "student": "2023JMF080",
+            "campus": "JM004",
+            "code": "H",
+            "mark": 57,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Razeen ismail ",
+            "campusName": "Darul Hidaya Collage Engappuzha ",
+            "points": 1,
+            "grade": "C"
+          },
+          {
+            "id": 3357,
+            "program": 179,
+            "student": "2023JMF087",
+            "campus": "JM011",
+            "code": "P",
+            "mark": 56,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "RASHID GAFOOR",
+            "campusName": "Markasunnajath Ekarool",
+            "points": 1,
+            "grade": "C"
+          },
+          {
+            "id": 1978,
+            "program": 179,
+            "student": "2023JMF227",
+            "campus": "JM008",
+            "code": "R",
+            "mark": 55,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Mishal Rasheed",
+            "campusName": "Baithul Izza Narikkuni",
+            "points": 1,
+            "grade": "C"
+          },
+          {
+            "id": 988,
+            "program": 179,
+            "student": "2023JMF011",
+            "campus": "JM012",
+            "code": "A",
+            "mark": 55,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "FAVAZ NASAR",
+            "campusName": "Jamalullaily Campus Chelari",
+            "points": 1,
+            "grade": "C"
+          },
+          {
+            "id": 1078,
+            "program": 179,
+            "student": "2023JMF168",
+            "campus": "JM006",
+            "code": "U",
+            "mark": 54,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Ameen Abdullah",
+            "campusName": "ISRA Vatanappally",
+            "points": 1,
+            "grade": "C"
+          },
+          {
+            "id": 1048,
+            "program": 179,
+            "student": "2023JMF29",
+            "campus": "JM009",
+            "code": "J",
+            "mark": 51,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Muhammad Abdul Kareem",
+            "campusName": "Dalaelul Khairath Kakkidippuram",
+            "points": 1,
+            "grade": "C"
+          },
+          {
+            "id": 1425,
+            "program": 179,
+            "student": "2023JMF114",
+            "campus": "JM002",
+            "code": "D",
+            "mark": 50,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "MUHAMMED SHAMMAS BASHEER",
+            "campusName": "Imam Rabbani Collage Kanthapuram",
+            "points": 1,
+            "grade": "C"
+          },
+          {
+            "id": 1501,
+            "program": 179,
+            "student": "2023JMF190",
+            "campus": "JM022",
+            "code": "K",
+            "mark": 50,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "HABEEBURRAHMAN MAMMOOTY",
+            "campusName": "Kamaliyya Campus Mayyil",
+            "points": 1,
+            "grade": "C"
+          },
+          {
+            "id": 3192,
+            "program": 179,
+            "student": "2023INF053",
+            "campus": "JMI001",
+            "code": "I",
+            "mark": 45,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Adnan Ahmed ",
+            "campusName": "Erthunnabavi Campuses",
+            "points": 1,
+            "grade": "C"
+          },
+          {
+            "id": 848,
+            "program": 179,
+            "student": "2023JMF209",
+            "campus": "JM021",
+            "code": "L",
+            "mark": 41,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "ABDULLAH KHALEEL ",
+            "campusName": "Markaz Chenganasseri",
+            "points": 1,
+            "grade": "C"
+          },
+          {
+            "id": 1077,
+            "program": 179,
+            "student": "2023JMF164",
+            "campus": "JM006",
+            "code": "V",
+            "mark": 40,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Hamid Sinan Saidalavi",
+            "campusName": "ISRA Vatanappally",
+            "points": 1,
+            "grade": "C"
+          },
+          {
+            "id": 2107,
+            "program": 179,
+            "student": "2023JMF140",
+            "campus": "JM003",
+            "code": "N",
+            "mark": 40,
+            "status": "finished",
+            "topic": 0,
+            "studentName": "Shahul Hameed Mahroof",
+            "campusName": "Imam Shafi Collage Busthanabad",
+            "points": 1,
+            "grade": "C"
+          }
+        ]
+      }
+    ],
+    "message": "Data fetched",
+    "success": true
+  }

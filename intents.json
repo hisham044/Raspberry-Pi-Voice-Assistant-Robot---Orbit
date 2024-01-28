@@ -1,0 +1,70 @@
+{
+    "intents": [
+        {
+            "tag": "greetings",
+            "patterns": [
+                "hi", "is anyone there", "hello", "assalamu alaykum", "Hi there",
+                "Hey", "Hola", "Namaste", "yo"
+            ],
+            "responses": ["hello! how can I assist you today", "hi, how can I help you", "hi there, how can i help"]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"
+            ],
+            "responses": ["Happy to help!", "Any time!", "My pleasure"],
+            "context": [""]
+        },
+        {
+            "tag": "name",
+            "patterns": [
+                "what is your name", "what should i call you", "what can i call you", "your name", "who are you"
+            ],
+            "responses": ["my name is Orbit Robot", "i am Orbit Robot", "you can call me Orbit Robot"]
+        },
+        {
+            "tag": "introduce",
+            "patterns": [
+                "introduce", "introduce yourself", "tell me about yourself", "tell about rendezvous", "who are you", "about you", "hu r u", "what is your purpose"
+            ],
+            "responses": [
+                "hello, i'm orbit robot, your friendly ai-powered companion. i'm equipped with a smart hearing system and can provide thoughtful responses to any question you throw my way. a notable feature of mine is announcing our rendezvous event results. i'm powered by a language model (llm) for efficient communication. let's chat and explore the wonders of technology together!"
+            ]
+        },
+        {
+            "tag": "rendezvous",
+            "patterns": [
+                "about rendezvous", "rendezvous", "what is rendezvous",  "tell me about rendezvous", "tell about rendezvous"
+            ],
+            "responses": ["rendezvous is the campus fest of jaamia madinathunnur. it's one of the most prominent events in India. Students from various campuses present their skills at the rendezvous venue.", "rendezvous, the life festival gala of jamia madeenathunoor. rendezvous represents the merging of arts, performance, and life itself. rendezvous' 24, themed 'sensing the spaces,' stands as a testament to madeenathunnoor's steadfast commitment to rejuvenating the flair reminiscent of the bygone islamic golden age."]
+        },
+        {
+            "tag": "markaz_garden",
+            "patterns": [
+                "what is markaz garden", "markaz garden", "marcus garden", "tell me about marcus garden", "jamia", "tell me about markaz garden"
+            ],
+            "responses": [
+                "markaz garden group of institutions focuses on nurturing a dedicated group of islamic propagators. the college provides undergraduate programs with a unique dual-degree approach, one from madeenathunnoor college and another from a national or international university. the aim is to produce scholars well-versed in both religious and worldly matters. the curriculum emphasizes theology and spirituality while ensuring exposure to current information, technical knowledge, and modern educational trends."
+            ]
+        },
+        {
+            "tag": "programmer",
+            "patterns": [
+                "Who made you", "who designed you", "who programmed you", "who developed you", "who is your father", "developer"
+            ],
+            "responses": [
+                "I was developed by Orbit Robot Team."
+            ]
+        },
+        {
+            "tag": "ustadh",
+            "patterns": [
+                "grand mufti", "ap abubakar"
+            ],
+            "responses": [
+                "Kanthapuram A. P. Aboobacker Musliyar known as Sheikh Abubakr Ahmad is the tenth and current Grand Mufti of India. and General Secretary of the All India Sunni Jamiyyathul Ulama and General Secretary of Samastha Kerala Jamiyyathul Ulama."
+            ]
+        }
+    ]
+}
